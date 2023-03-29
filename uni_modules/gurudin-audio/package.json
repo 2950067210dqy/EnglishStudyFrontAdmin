@@ -1,0 +1,9 @@
+{
+    "id": "gurudin-audio",
+    "name": "音频播放器插件",
+    "version": "1.0.01",
+    "description": "音频播放器插件",
+    "keywords": [
+        "audio"
+    ]
+}
